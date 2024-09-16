@@ -1,3 +1,7 @@
+![Kotlin](https://img.shields.io/badge/Kotlin-9A00F5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+# class_Ex1
+
 Точка и треугольник (создать класс Точка и класс Треугольник)
 
 Треугольник описан координатами трех своих вершин. Указаны координаты отдельной точки. 
